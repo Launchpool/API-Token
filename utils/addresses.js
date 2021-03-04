@@ -10,7 +10,6 @@ const addresses = {
     lpOperationsOne: "0xdd923ff5961796b3005ee0d964d154ad08bd3695",
     lpOperationsTwo: "0xc69461f9a1d68b26f8798de5dc3e99e0cb25c049",
     lpOperationsThree: "0xaa955340d1148ac64f9a39e1c2383350f9d17140",
-    unclaimedRewards: "0x67000dc0860ac241c2cbb45d59d894a20a3ccb0f"
   }
  
 }
