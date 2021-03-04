@@ -58,7 +58,7 @@ app.use(/^\/$/, (req, res) => {
 
 // app.use('/api/v1', isReady)
 
-app.use('/api/v1', apiRoutes)
+app.use('/v1', apiRoutes)
 
 app.use((req, res) => {
   res.status(404).json({error: true, message: "Resource not found"})
